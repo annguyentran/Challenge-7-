@@ -6,3 +6,6 @@ the license description.
 
 <img width="926" alt="2022-08-16 (1)" src="https://user-images.githubusercontent.com/107017473/185041649-1b18fc70-ad6c-4b3d-b63c-dccd44fd6822.png">
 
+Walkthrough video: https://drive.google.com/file/d/1uX-_dTS4vNR2V4jPFu_A0Fi53NsNgW8-/view
+
+
